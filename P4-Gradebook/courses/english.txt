@@ -1,0 +1,16 @@
+4 credits
+Jerry
+This is a
+multiline description
+of an english course
+
+Binay,876332540,3.5
+Naruto,977732145,3.0
+Robin,276432641,3.5
+Batman,432232010,4.0
+Daenerys,372390040,3.0
+Han,876433541,2.00
+Heisenberg,372380640,2.50
+Yoda,366932681,4.0
+Bucky,876412546,3.0
+Julius,367732481, 3.0

@@ -1,0 +1,9 @@
+Apple,0.99,10
+Banana,0.99,20
+Orange,0.99,20
+Coconut,1.49,25
+Bread,1.99,20
+Coors Light,15.99,10
+Coffee Beans,10.49,10
+Creamer,5.99,10
+Eggs,2.49,15
